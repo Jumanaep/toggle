@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center; /* center horizontally */
+  align-items: center;     /* center vertically */
+  min-width: 320px;
+  min-height: 100vh;
+
+
+}
+
+button {
+  padding: 12px;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: inherit;
+  border: none;
+  border-radius: 12px;
+  background: rgb(53, 52, 52);
+  color: white;
+}
+
